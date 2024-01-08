@@ -1,0 +1,234 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.1.2",
+  "deps": {
+    "@angular/animations": "^17.0.0",
+    "@angular/cdk": "^17.1.0-next.2",
+    "@angular/common": "^17.0.0",
+    "@angular/compiler": "^17.0.0",
+    "@angular/core": "^17.0.0",
+    "@angular/forms": "^17.0.0",
+    "@angular/material": "^17.1.0-next.2",
+    "@angular/platform-browser": "^17.0.0",
+    "@angular/platform-browser-dynamic": "^17.0.0",
+    "@angular/router": "^17.0.0",
+    "@ngrx/operators": "^17.0.1",
+    "@ngrx/signals": "^17.0.1",
+    "prettier": "^3.1.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.2",
+    "@angular-devkit/build-angular": "^17.0.3",
+    "@angular-eslint/builder": "17.1.0",
+    "@angular-eslint/eslint-plugin": "17.1.0",
+    "@angular-eslint/eslint-plugin-template": "17.1.0",
+    "@angular-eslint/schematics": "17.1.0",
+    "@angular-eslint/template-parser": "17.1.0",
+    "@angular/cli": "^17.0.3",
+    "@angular/compiler-cli": "^17.0.0",
+    "@types/jasmine": "~5.1.0",
+    "@typescript-eslint/eslint-plugin": "6.11.0",
+    "@typescript-eslint/parser": "6.11.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.53.0",
+    "jasmine-core": "~5.1.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "postcss": "^8.4.31",
+    "typescript": "~5.2.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".editorconfig",
+        "hash": "17241496168097493888"
+      },
+      {
+        "file": ".eslintrc.json",
+        "hash": "7018914933374542252"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "4689145951703824387"
+      },
+      {
+        "file": ".nx/cache/file-map.json",
+        "hash": "14144289300090751514"
+      },
+      {
+        "file": ".nx/cache/lockfile.hash",
+        "hash": "15958066135314329185"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/project-graph.html",
+        "hash": "17036869540637447991"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/3rdpartylicenses.txt",
+        "hash": "5667550289807473445"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/environment.js",
+        "hash": "5018250891076049163"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/favicon.ico",
+        "hash": "9303420814833116677"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/main.js",
+        "hash": "11366588937091843483"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/polyfills.js",
+        "hash": "2110773196768975388"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/runtime.js",
+        "hash": "9652903316845995179"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/styles.css",
+        "hash": "5562174198026097626"
+      },
+      {
+        "file": ".nx/cache/nx-console-project-graph/static/styles.js",
+        "hash": "13596360365094399219"
+      },
+      {
+        "file": ".nx/cache/parsed-lock-file.json",
+        "hash": "18255833507815679373"
+      },
+      {
+        "file": ".nx/cache/project-graph.json",
+        "hash": "1086398187546380578"
+      },
+      {
+        "file": ".prettierrc.json",
+        "hash": "9072365842506387932"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "11934160580685414355"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17406702432687230417"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "10093397977228577162"
+      },
+      {
+        "file": "README.md",
+        "hash": "2524615830031686307"
+      },
+      {
+        "file": "angular.json",
+        "hash": "15605037176916950890"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "3855294881926221027"
+      },
+      {
+        "file": "package.json",
+        "hash": "18192703525874135426"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "3675931855089455642"
+      },
+      {
+        "file": "src/app/app.component.scss",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "14973981419257492298"
+      },
+      {
+        "file": "src/app/app.config.ts",
+        "hash": "17818593495732852010"
+      },
+      {
+        "file": "src/app/app.routes.ts",
+        "hash": "4583086276827563106"
+      },
+      {
+        "file": "src/app/core/index.ts",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/features/home/home.component.html",
+        "hash": "12034688802750319870"
+      },
+      {
+        "file": "src/app/features/home/home.component.scss",
+        "hash": "13633003840688629981"
+      },
+      {
+        "file": "src/app/features/home/home.component.ts",
+        "hash": "14766155975088492552"
+      },
+      {
+        "file": "src/app/features/kanban/kanban.component.ts",
+        "hash": "13533878041817544646"
+      },
+      {
+        "file": "src/app/features/kanban/ui/work-item/work-item.component.ts",
+        "hash": "9139087025155932008"
+      },
+      {
+        "file": "src/app/shared/data-access/api.service.ts",
+        "hash": "410662703028472659"
+      },
+      {
+        "file": "src/app/shared/data-access/kanban.service.ts",
+        "hash": "3163190645233100233"
+      },
+      {
+        "file": "src/app/shared/interfaces/work-item.ts",
+        "hash": "7739344946727565620"
+      },
+      {
+        "file": "src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "1912744460783553753"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "4169901790405087765"
+      },
+      {
+        "file": "src/styles.scss",
+        "hash": "3920208558430766621"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "13119632651406065538"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "12269004606661505679"
+      },
+      {
+        "file": "tsconfig.spec.json",
+        "hash": "5122839733245053999"
+      }
+    ]
+  }
+}
